@@ -8,12 +8,16 @@
     "@testing-library/user-event": "^12.6.3",
     "bootstrap": "^4.6.0",
     "express": "^4.17.1",
+    "hero": "0.0.0",
     "node": "^15.7.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
+    "react-css-modules": "^4.7.11",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "sass": "^1.32.5",
+    "section": "^0.4.2",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
