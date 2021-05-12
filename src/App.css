@@ -15,9 +15,30 @@
   justify-content: center;
   font-size: 3rem;
 }
-
+/* lemon meringue pie */
 .services {
   background-image: url('./images/Lm.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+/* Cookie Cake */
+.services {
+  background-image: url('./images/cC2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+/* Reeses Peanut Butter Cookies */
+
+.services {
+  background-image: url('./images/rC.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

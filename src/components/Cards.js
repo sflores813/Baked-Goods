@@ -12,8 +12,8 @@ function Cards() {
            {/* lemon mar */}
            <CardItem
               src='../images/lemonM.jpg'
-              text='Lemon Merang!'
-              label='EDITS'
+              text='Lemon Meringue Pie!'
+              label='Maybe Price?'
               path='/services'
             />
             {/* deserst 2 */}
@@ -21,7 +21,7 @@ function Cards() {
               src='../images/cookieCake.jpg'
              text='Cookie cake!'
               label='depends on what kind of dessert (cake,pie,cookie)'
-              path='/Products'
+              path='/services'
             />
           </ul>
             {/* dessert 3 */}
@@ -30,7 +30,7 @@ function Cards() {
               src='../images/reesesCookie.jpg'
              text='Reeses Peanut Butter Cookies!'
               label='depends on what kind of dessert (cake,pie,cookie)'
-              path='/Products'
+              path='/services'
             />
             {/* dessert 4 */}
             <CardItem
