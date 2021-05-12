@@ -9,37 +9,42 @@ function Cards() {
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
-            <CardItem
-              src='../img/lemonM.jpg'
-              text='enter a dessert!'
-              label='depends on what kind of dessert (cake,pie,cookie)'
-              path='/products'
+           {/* lemon mar */}
+           <CardItem
+              src='../images/lemonM.jpg'
+              text='Lemon Merang!'
+              label='EDITS'
+              path='/services'
             />
+            {/* deserst 2 */}
             <CardItem
-              src='...'
-             text='enter a dessert!'
+              src='../images/cookieCake.jpg'
+             text='Cookie cake!'
               label='depends on what kind of dessert (cake,pie,cookie)'
-              path='/products'
+              path='/Products'
             />
           </ul>
+            {/* dessert 3 */}
           <ul className='cards__items'>
             <CardItem
-              src='../imgs/lemonM.jpg'
-             text='enter a dessert!'
+              src='../images/reesesCookie.jpg'
+             text='Reeses Peanut Butter Cookies!'
               label='depends on what kind of dessert (cake,pie,cookie)'
-              path='/products'
+              path='/Products'
             />
+            {/* dessert 4 */}
             <CardItem
               src='...'
               text='enter a dessert!'
               label='depends on what kind of dessert (cake,pie,cookie)'
-              path='/products'
+              path='/Products'
             />
+            {/* dessert 5  */}
             <CardItem
               src='...'
               text='enter a dessert!'
               label='depends on what kind of dessert (cake,pie,cookie)'
-              path='/products'
+              path='/Products'
             />
           </ul>
         </div>
